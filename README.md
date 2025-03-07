@@ -1,6 +1,4 @@
-Log Kriptografi Transaction
-
-# Log Kriptografi
+# Log Kriptografi Transaction
 
 ## Fitur
 - Menambahkan catatan log dengan timestamp dan nominal uang.
@@ -9,7 +7,7 @@ Log Kriptografi Transaction
 - Fitur pencarian log berdasarkan teks atau nominal.
 - Quick button untuk input nominal cepat.
 
-  ## --
+  ## 
 - **Kotlin** 
 - **DataStore**
 - **SHA-256 Hashing**
