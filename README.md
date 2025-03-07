@@ -1,4 +1,4 @@
-Log Kriptografi
+Log Kriptografi Transaction
 
 # Log Kriptografi
 
