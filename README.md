@@ -1,7 +1,7 @@
 # Log Kriptografi Transaction
 
 ##
-## 
-- **Kotlin** 
+- **Kotlin**
+- **Log Timestamp**
 - **DataStore**
 - **SHA-256 Hashing**
