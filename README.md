@@ -6,3 +6,5 @@
 - **Log Timestamp**
 - **DataStore**
 - **SHA-256 Hashing**
+- **previousHash**
+
